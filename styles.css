@@ -1,9 +1,11 @@
 h1 {
   text-align: center;
+  color: #305C7A;
 }
 
 h5  {
   text-align: center;
+  color: #305C7A;
 }
 
 body {
@@ -50,6 +52,7 @@ img.resize {
 
 .programs {
   font-size: 30px;
+  color: #305C7A;
 }
 
 .nav-link {
